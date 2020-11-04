@@ -2,4 +2,7 @@
 
 .ipynb_checkpoints/
 *checkpoint.ipynb
+*txt
+*csv
+*log
 Untitled.ipynb
