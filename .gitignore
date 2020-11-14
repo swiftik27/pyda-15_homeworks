@@ -1,6 +1,7 @@
 # gitignore
 
 .ipynb_checkpoints/
+__pycache__/
 *checkpoint.ipynb
 *txt
 *csv
